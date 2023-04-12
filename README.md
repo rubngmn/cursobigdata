@@ -6,7 +6,7 @@ M6 - 01 - Python Notebook
 
 M6 - 02 - Condicionales
 
-## Día 1 - Lunes
+## Día 1 - Martes
 
 M6 - 03 - Bucles
 
