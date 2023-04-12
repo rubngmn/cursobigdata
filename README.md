@@ -11,3 +11,9 @@ M6 - 02 - Condicionales
 M6 - 03 - Bucles
 
 M6 - 04 - Programación Funcional
+
+## Día 3 - Miércoles
+
+M6 - 05 - Teoría Spark
+
+M6 - 06 - Teoría RDD
