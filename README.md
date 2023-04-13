@@ -14,6 +14,6 @@ M6 - 04 - Programación Funcional
 
 ## Día 3 - Miércoles
 
-M6 - 05 - Teoría Spark
+M6 - 05 - Spark
 
-M6 - 06 - Teoría RDD
+M6 - 06 - RDD
